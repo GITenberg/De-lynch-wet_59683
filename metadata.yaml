@@ -1,0 +1,38 @@
+_repo: De-lynch-wet_59683
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rochussen, Charles
+    alias: Rochussen, Karel
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '38571'
+    url: http://www.gutenberg.org/2009/agents/38571
+  translator:
+    agent_name: Cnopius, Lodewijk Christiaan
+    gutenberg_agent_id: '50566'
+    url: http://www.gutenberg.org/2009/agents/50566
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2019-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59683'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De lynch-wet
+url: http://www.gutenberg.org/ebooks/59683
